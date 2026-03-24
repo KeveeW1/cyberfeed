@@ -1,6 +1,8 @@
 # cyberfeed
 a terminal cybersecurity news aggregator that pulls headlines from top security RSS feeds and displays a clean daily briefing right in your terminal.
 
+if you have any feedback or additions, lmk on X tyty;
+<i>still learning</i>
 
 ## install
 
